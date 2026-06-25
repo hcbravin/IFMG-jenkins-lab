@@ -5,8 +5,8 @@ services:
     container_name: app001
     ports:
       - "80:80"
-    volumes:
-      - ./plataforma:/var/www/html
+    # volumes:
+    #   - ./plataforma:/var/www/html
     networks:
       - rede-lab-teste-devops
 
