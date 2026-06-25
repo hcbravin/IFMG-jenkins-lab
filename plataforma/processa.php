@@ -1,7 +1,7 @@
 <?php
 
-$host = "192.168.60.4";
-$user = "cadastro";
+$host = "db001";
+$user = "root";
 $password = "123456";
 $database = "cadastro";
 
